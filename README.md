@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors JS game
 
+Access < a href ="https://alex16-csharp.github.io/rock-paper">link</a>
+
 This is a small project i made, its a Rock Paper Scissors, using vanila Java-Script
 
 The rules are not interchangeable.
